@@ -1,3 +1,4 @@
+/* boiler template that sarthak bhaiya suggested to use before starting*/
 *{
     margin:0;
     padding:0;
@@ -14,7 +15,7 @@ html,body{
 }
 
 
-/* MAIN CONTAINER */
+
 .main{
     width:95%;
    min-height:95vh;
@@ -38,7 +39,7 @@ position:relative;
 
 
 
-/* NAVBAR */
+
 .navbar{
     width:90%;
 
@@ -57,7 +58,7 @@ position:relative;
 }
 
 
-/* ICONS */
+
 .menu-icon,
 .sun-icon{
     width:55px;
@@ -90,7 +91,7 @@ position:relative;
 
 
 
-/* SEARCH SECTION */
+
 .search-section{
     width:90%;
 
@@ -178,7 +179,7 @@ position:relative;
 
 
 
-/* CARDS SECTION */
+
 .cards-section{
     width:90%;
 
@@ -193,7 +194,7 @@ position:relative;
 }
 
 
-/* CARD */
+
 .pokemon-card{
     width:260px;
 
@@ -217,7 +218,7 @@ position:relative;
 }
 
 
-/* TOP */
+
 .card-top{
     display:flex;
     justify-content:space-between;
@@ -231,7 +232,7 @@ position:relative;
 }
 
 
-/* BLUR BG */
+
 .image-bg{
     width:170px;
     height:170px;
@@ -251,7 +252,7 @@ position:relative;
 }
 
 
-/* IMAGE */
+
 .pokemon-card img{
     width:180px;
     height:180px;
@@ -264,7 +265,7 @@ position:relative;
 }
 
 
-/* TITLE */
+
 .pokemon-card h2{
     margin-top:15px;
 
@@ -274,7 +275,7 @@ position:relative;
 }
 
 
-/* TYPES */
+
 .types{
     margin-top:18px;
 
@@ -302,7 +303,7 @@ position:relative;
     backdrop-filter:blur(8px);
 }
 
-/* FOOTER FEATURES */
+
 .footer-features{
     width:90%;
 
@@ -328,7 +329,7 @@ position:relative;
 }
 
 
-/* SINGLE FEATURE */
+
 .feature-box{
     display:flex;
     align-items:flex-start;
@@ -339,7 +340,7 @@ position:relative;
 }
 
 
-/* ICON */
+
 .feature-icon{
     width:55px;
     height:55px;
@@ -356,7 +357,7 @@ position:relative;
 }
 
 
-/* ICON COLORS */
+
 .blue{
     background:#dfe7ff;
     color:#4a6cff;
@@ -378,7 +379,7 @@ position:relative;
 }
 
 
-/* TEXT */
+
 .feature-text h3{
     font-size:20px;
 
@@ -397,7 +398,7 @@ position:relative;
 
 
 
-/* COPYRIGHT */
+
 .copyright{
     display:flex;
     flex-direction:column;
@@ -595,7 +596,7 @@ position:relative;
     animation:float 3s ease-in-out infinite;
 }
 
-/* LEAVES */
+
 .leaf1{
     color:#59c36a;
 
@@ -615,7 +616,7 @@ position:relative;
 }
 
 
-/* FIRE */
+
 .fire1{
     color:#ff7a30;
 
@@ -624,7 +625,7 @@ position:relative;
 }
 
 
-/* WATER */
+
 .water1{
     color:#4fa7ff;
 
@@ -633,7 +634,7 @@ position:relative;
 }
 
 
-/* ELECTRIC */
+
 .electric1{
     color:#ffd500;
 
